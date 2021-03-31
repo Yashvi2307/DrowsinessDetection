@@ -4,9 +4,9 @@ Real-time Driver Drowsiness detection using AI and ML.
 
 ## Introduction
 
-Driver Drowsiness is one of the leading causes of motor vehicle crashes. According to [2020 data from the WHO](https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries), road injuries resulted in approximately 1.35 million deaths per year worldwide i.e. a crash approximately every 23 seconds. And I understand the seriousness since my parents have also been a part of one such incident (p.s. they are absolutely fine). 
-Hence, this definition is very close to me.
-Our aim is to make the model sustainable and accessible to the lower strata of the society, especially the truck and bus drivers.
+Driver Drowsiness is one of the leading causes of motor vehicle crashes. According to [2020 data from the WHO](https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries), road injuries resulted in approximately 1.35 million deaths per year worldwide i.e. a crash approximately every 23 seconds. </br>
+And I understand the seriousness since my parents have also been a part of one such incident (p.s. they are absolutely fine). Hence, this definition is very close to me. </br>
+Our aim is to make the model sustainable and accessible to the lower strata of the society, especially the truck and bus drivers. </br>
 Therefore, we are presenting a novel approach towards real-time driver drowsiness detection in this project. 
 
 ## Getting started
