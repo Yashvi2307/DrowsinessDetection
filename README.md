@@ -57,7 +57,7 @@ Under-process to deploy it live, on an application-based system using Android.
 
 ## Author
 
-**Ms. Yashvi Parikh** 
+*Ms. Yashvi Parikh*
 
 ## Acknowledgement
 
